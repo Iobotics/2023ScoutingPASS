@@ -181,7 +181,15 @@ var config_data = `
         "a": "Attempted but failed<br>",
         "x": "Not attempted"
       },
-      "defaultValue": "x"
+       "defaultValue": "x"
+      { "name": "Alternate",
+        "code": "ap",
+        "type": "radio",
+        "choices": {
+          "y": "Side Access<br>",
+          "n": "Front Access"
+      },
+      "defaultValue": "n"
     },
     { "name": "Total # of alliance<br>robots docked/engaged",
       "code": "dn",
