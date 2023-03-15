@@ -14,7 +14,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2023cave",
+      "defaultValue": "2023caoc",
       "required": "true",
       "disabled": "true"
     },
