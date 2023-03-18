@@ -91,9 +91,9 @@ var config_data = `
       "code": "ad",
       "type":"radio",
       "choices": {
-        "d": "Docked (not Engaged)<br>",
-        "e": "Engaged<br>",
-        "a": "Attempted but failed<br>",
+        "2": "Docked (not Engaged)<br>",
+        "3": "Engaged<br>",
+        "1": "Attempted but failed<br>",
         "x": "Not attempted"
       },
       "defaultValue": "x"
@@ -158,10 +158,9 @@ var config_data = `
       "code": "fs",
       "type":"radio",
       "choices": {
-        "p": "Parked<br>",
-        "d": "Docked (Not Engaged)<br>",
-        "e": "Engaged<br>",
-        "a": "Attempted but failed<br>",
+        "1": "Docked (Not Engaged)<br>",
+        "2": "Engaged<br>",
+        "0": "Attempted but failed<br>",
         "x": "Not attempted"
       },
       "defaultValue": "x"
