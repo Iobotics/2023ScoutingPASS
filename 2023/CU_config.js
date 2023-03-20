@@ -14,7 +14,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2023azva",
+      "defaultValue": "2023bcvi",
       "required": "true",
       "disabled": "true"
     },
