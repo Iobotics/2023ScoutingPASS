@@ -94,7 +94,7 @@ var config_data = `
         "2": "Docked (not Engaged)<br>",
         "3": "Engaged<br>",
         "1": "Attempted but failed<br>",
-        "x": "Not attempted"
+        "4": "Not attempted"
       },
       "defaultValue": "x"
     }
@@ -158,10 +158,10 @@ var config_data = `
       "code": "fs",
       "type":"radio",
       "choices": {
-        "1": "Docked (Not Engaged)<br>",
-        "2": "Engaged<br>",
-        "0": "Attempted but failed<br>",
-        "x": "Not attempted"
+        "1": "Attempted but failed<br>",
+        "2": "Docked (Not Engaged)<br>",
+        "3": "Engaged<br>",
+        "4": "Not attempted"
       },
       "defaultValue": "x"
     },
