@@ -14,7 +14,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2023lake",
+      "defaultValue": "2023flta",
       "required": "true",
       "disabled": "true"
     },
